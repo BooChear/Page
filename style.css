@@ -61,7 +61,7 @@ body {
 
 .nickname {
     font-family: var(--font-main);
-    font-weight: 700;
+    font-weight: 300;
     font-size: 40px;
     letter-spacing: 2px;
     color: var(--white);
